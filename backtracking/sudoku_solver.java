@@ -9,7 +9,7 @@
 *
 * */
 
-package board.sudoku;
+package backtracking;
 
 public class sudoku_solver {
     /*-------------method 1: backtracking---------------*/
